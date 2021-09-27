@@ -50,7 +50,7 @@
 	better performance than the original <c>rpc</c> implementation.
 	However, since the introduction of <c>erpc</c>, the <c>rpc</c>
 	module implements large parts of its central functionality using
-	<c>erpc</c>, so the <c>rpc</c> module wont not suffer scalability
+	<c>erpc</c>, so the <c>rpc</c> module won't suffer scalability
 	wise and performance wise compared to <c>erpc</c>.
       </p></note>
   </description>
